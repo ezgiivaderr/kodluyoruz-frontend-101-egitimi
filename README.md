@@ -28,8 +28,8 @@
 ## Sık Kullanılan Markdown İşaretlemeleri
 - [Tutorial](https://commonmark.org/help/tutorial/index.html)
 - [Doküman](https://commonmark.org/help/)
-```
-# Başlık 1
+
+ # Başlık 1
 ## Başlık 2.. 
 
 *italic* 
@@ -45,7 +45,24 @@ Link:
 [Kodluyoruz](https://www.kodluyoruz.org/)
 
 Image/Gorsel:
-![Aciklama Bilgisi](url)
+![Google'a gitmek için tıklayınız](https://www.youtube.com/)
+
+------------------------------------------------------
+
 ![Lorem Picsum](https://picsum.photos/200/300)
 
+***
+
+
+```
+print("hello world")
+```
+```python
+print("hello world")
+```
+```javascript
+console.log("hello world")
+function helloWorld() {
+   console.log("hello world") 
+}
 ```
